@@ -13,17 +13,17 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> BEC COLLOEGE</h2>
+      <h2> BEC COLLEGE</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>Email</label>
         </div>
         <div class="form-control">
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit"> BYE  </button>
+        <button type="submit"> LOGIN  </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
